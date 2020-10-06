@@ -21,7 +21,7 @@
 
 ## Screenshots
 
-
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/57058997/95252809-ca894680-081d-11eb-92f4-16e29f4119fa.gif)
 
 
 ## Technologies
