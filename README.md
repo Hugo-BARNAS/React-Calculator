@@ -2,7 +2,7 @@
 ![](https://img.shields.io/badge/JavaScript-inactive?logo=JavaScript)
 ![](https://img.shields.io/badge/Node.js-inactive?logo=Node.js&color=brightgreen)
 
-#  Project Name : noughts-and-crosses-game-react project
+#  Project Name : React Calculator
 
 ## Table of contents
 * [General info](#general-info)
