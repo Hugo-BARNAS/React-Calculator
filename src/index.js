@@ -4,6 +4,7 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
+// point d'entrée dans le DOM du navigateur
 ReactDOM.render(
   <React.StrictMode>
     <App />
